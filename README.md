@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaezc&label=Profile%20views&color=0e75b6&style=flat" alt="vaezc" /> </p>
 
-- 🌱 I’m currently learning **react go**
+- 🌱 I’m currently learning **react **
 
 - 📝 I regularly write articles on [https://vaezc.github.io/](https://vaezc.github.io/)
 
